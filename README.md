@@ -70,7 +70,7 @@ Once the design was set in place, I started using JavaScript to manipulate the D
 
 ## Status
 
-A live version can be viewed at: .
+A live version can be viewed at: https://ananfito.github.io/restaurant-ordering-app/.
 
 ## Connect
 
